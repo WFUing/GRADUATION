@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T11:33:14.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VHHtQ8Wb7LGcvrgNJd6N" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T11:37:07.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9-f6kaVRRJSIg68OCAQF" version="21.0.6" type="github">
   <diagram name="第 1 页" id="WiLm61dJJ522gR-LhgyA">
     <mxGraphModel dx="574" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
           <mxGeometry x="340" y="80" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="FzskPiRlwRoJWsMbWcw--30" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;«F»&lt;br&gt;&lt;b&gt;构件&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="110" width="300" height="160" as="geometry" />
+          <mxGeometry x="460" y="100" width="300" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FzskPiRlwRoJWsMbWcw--31" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FzskPiRlwRoJWsMbWcw--30">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -78,14 +78,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FzskPiRlwRoJWsMbWcw--32" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="530" y="279" width="10" height="20" as="geometry" />
+          <mxGeometry x="580" y="280" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FzskPiRlwRoJWsMbWcw--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.227;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FzskPiRlwRoJWsMbWcw--32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="534" y="270" as="sourcePoint" />
-            <mxPoint x="545" y="254" as="targetPoint" />
+            <mxPoint x="584" y="271" as="sourcePoint" />
+            <mxPoint x="595" y="255" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="534" y="284" />
+              <mxPoint x="584" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FzskPiRlwRoJWsMbWcw--40" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;«En»&lt;br&gt;&lt;b&gt;构件&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="590" y="140" width="130" height="100" as="geometry" />
+          <mxGeometry x="600" y="135" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FzskPiRlwRoJWsMbWcw--41" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FzskPiRlwRoJWsMbWcw--40">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -118,12 +118,56 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FzskPiRlwRoJWsMbWcw--38" value="«E»&lt;br&gt;&lt;b&gt;构件&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="600" y="160" width="80" height="50" as="geometry" />
+          <mxGeometry x="610" y="150" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FzskPiRlwRoJWsMbWcw--39" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FzskPiRlwRoJWsMbWcw--38">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--42" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="660" y="247" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.227;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FzskPiRlwRoJWsMbWcw--42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="664" y="238" as="sourcePoint" />
+            <mxPoint x="675" y="222" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="664" y="252" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.767;entryY=-0.004;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="FzskPiRlwRoJWsMbWcw--47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--47" value="" style="ellipse;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="520" y="71" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.767;entryY=-0.004;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="FzskPiRlwRoJWsMbWcw--49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--49" value="" style="ellipse;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="520" y="131" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.767;entryY=-0.004;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="FzskPiRlwRoJWsMbWcw--51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--51" value="" style="ellipse;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="650" y="106" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.767;entryY=-0.004;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="FzskPiRlwRoJWsMbWcw--53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="99.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzskPiRlwRoJWsMbWcw--53" value="" style="ellipse;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="650" y="70.5" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
