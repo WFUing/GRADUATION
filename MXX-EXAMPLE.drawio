@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T09:17:26.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uqjgGnrBLBSaQNN0Vh3Y" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T09:19:23.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vCBjT9TklWi2mvoOc__O" version="21.0.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="380" y="170" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vXhFPMX_ZpGUBwA_U3QO-25" value="«Auth»&lt;br&gt;&lt;b&gt;身份验证构件&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="455" y="110" width="180" height="90" as="geometry" />
+          <mxGeometry x="480" y="130" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vXhFPMX_ZpGUBwA_U3QO-26" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vXhFPMX_ZpGUBwA_U3QO-25">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -76,8 +76,8 @@
         <mxCell id="vXhFPMX_ZpGUBwA_U3QO-40" value="verify(token)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="210" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vXhFPMX_ZpGUBwA_U3QO-41" value="«DB»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="180" height="90" as="geometry" />
+        <mxCell id="vXhFPMX_ZpGUBwA_U3QO-41" value="«DB»&lt;br&gt;&lt;b&gt;数据库构件&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vXhFPMX_ZpGUBwA_U3QO-42" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vXhFPMX_ZpGUBwA_U3QO-41">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -95,10 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vXhFPMX_ZpGUBwA_U3QO-45" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="625" y="290" width="10" height="10" as="geometry" />
+          <mxGeometry x="620" y="310" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vXhFPMX_ZpGUBwA_U3QO-46" value="dbOperation()" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="280" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
